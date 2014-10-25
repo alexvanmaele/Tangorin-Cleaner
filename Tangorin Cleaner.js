@@ -3,7 +3,7 @@
 // @namespace    tangorin.cleaner
 // @description  Cleans up Tangorin.com
 // @author       Alex
-// @match        http://tangorin.com/*
+// @match        *://*.tangorin.com/*
 // @grant        none
 // @require    http://code.jquery.com/jquery-latest.pack.js
 // ==/UserScript==
